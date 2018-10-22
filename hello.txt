@@ -2,3 +2,5 @@ Tryin to learn git terminal.
 Easy??
 
 Nah.
+
+Edit on the master branch.
